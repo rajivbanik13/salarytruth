@@ -21,7 +21,3 @@ Live site: https://salarytruth.in
 All calculations run in your browser.
 Zero tracking. Zero login. Zero data collection.
 
-<a href="https://github.com/YOUR_USERNAME/salarytruth" 
-   target="_blank" rel="noopener">
-  View source on GitHub
-</a>
